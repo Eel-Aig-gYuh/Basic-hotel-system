@@ -1,1 +1,1 @@
-# H-th-ng-t-ph-ng-kh-ch-s-n-n-gi-n.
+# Managing basic hotel system.
